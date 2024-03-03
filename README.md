@@ -7,7 +7,7 @@ Accordingly, the disease is diagnosed and the result is shown to the user.
 A system has been built for each disease, treating its cases, setting its own rules, and building an interface for it
 
 ## System design :
-### Diagnosing heart disease based on age, medical history, and symptoms:
+### 1-  Diagnosing heart disease based on age, medical history, and symptoms:
 #### System Input:
 ![image](https://github.com/halalek/-Fuzzy-logic/assets/112726630/04431881-6e98-4abd-92cb-33dc8dba7a03)
 
@@ -43,7 +43,9 @@ Then the output chart is displayed, and the output (bottom of the chart image) i
 
 
 
-### Diagnosis of Diabetes based on age, medical history, and symptoms:
+
+
+### 2-Diagnosis of Diabetes based on age, medical history, and symptoms:
 #### The system Input: age - glucose concentration - body mass - history of diabetes for a specific person.
 
 ![image](https://github.com/halalek/-Fuzzy-logic/assets/112726630/c7306cda-869a-43a4-a9b8-438cfc50ec44)
